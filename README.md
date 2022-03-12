@@ -1,4 +1,4 @@
-# EricB/README.md (private repository)
+# EricBlanvillain/README.md (private repository)
 
 Hi 👋, I'm Eric 
 
