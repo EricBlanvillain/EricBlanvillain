@@ -1,5 +1,3 @@
-# EricBlanvillain/README.md
-
 Hi 👋, I'm Eric 
 
 A passionate data analyst based in Paris
