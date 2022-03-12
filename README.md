@@ -2,5 +2,4 @@
 
 ## A passionate data analyst based in Paris
 
-Connect with me:
-eric.blanvillain@essec.edu
+## Connect with me: eric.blanvillain@essec.edu
